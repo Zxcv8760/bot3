@@ -66,8 +66,8 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = 'LoliBot'
-global.author = 'elrebelde21'
+global.packname = 'ₛₐfᵣₒₜ bₒₜ'
+global.author = '𝙎𝙖𝙛𝙧𝙤𝙩-𝙈𝘿'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
